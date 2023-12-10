@@ -1,12 +1,7 @@
 # Bank_Analysis
 
 
-## Contents:
 
-- [project Summery](project-Summery)
-- [Data Sources](Data-Sourses)
-- [Tools Used](Tools-Used)
-- 
 ## project Summery 
 ------
 - we got a 40k data of customers of a bank in period of 2007 to 2011 with all information.
