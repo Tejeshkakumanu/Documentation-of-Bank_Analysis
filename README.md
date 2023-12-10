@@ -3,7 +3,8 @@
 
 ## Contents:
 
--[project Summery](project-Summery)
+- [project Summery](project-Summery)
+- [Data Sources](Data-Sourses)
 
 ## project Summery 
 ------
@@ -40,7 +41,7 @@ And In our team we are 6 I taken the lead and done so many things and communicat
 In this project I have done more than 80% by only me.
 
 ### Project work progress
-
+----------
 - Analyzed bank loans to enhance decision-making.
 - Reiterated the importance of understanding customer loan behavior and its impact on the bank's operations.
 - We begun to analyze a  finance data  on these tasks:
@@ -61,7 +62,7 @@ In this project I have done more than 80% by only me.
   ![Screenshot 2023-12-10 134145](https://github.com/Tejeshkakumanu/Documentation-of-Bank_Analysis/assets/152053559/e8f96eb7-f1d1-40da-ab40-abeaa24fc510)
 
 ### Results / Finding
-
+---------
 ### what we observed based on all 5 kip’s:
 
 1.On year wise loan amount stats : 
@@ -90,7 +91,7 @@ In this project I have done more than 80% by only me.
    Tailor communication or support for homeowners based on their payment history.
 
  ### suggestions:
-
+----------
 By this we recommend the bank should concentrate on non-verified customer to verify them and some 
 country also should concentrate. And increase the incentives who done these sales then they will be good do work with 
 passion. If these things done the loan amount and funded amount can increase in future based on our visualization
